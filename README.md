@@ -16,5 +16,5 @@
 5. Line 2 <br>
 <ins> The line under th sentence. </ins>
 
-6. Image <br>
-<img><img>
+6. Color <br>
+<font Color = red> RREEDD </font>
